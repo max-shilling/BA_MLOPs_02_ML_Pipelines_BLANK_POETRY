@@ -18,7 +18,7 @@ CATEGORICAL_COLUMNS = [
     'Contract', 'PaperlessBilling', 'PaymentMethod'
 ]
  
- 
+# Define constants for data processing
 TEST_SIZE = 0.25
 RANDOM_STATE = 42
  
